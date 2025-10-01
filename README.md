@@ -75,8 +75,8 @@
   <a href="https://github.com/amiteshx08/Study-Companion-AI">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiteshx08&repo=Study_Buddy_College_Project&theme=transparent" />
   </a>
-  <a href="https://github.com/amiteshx08/Smart-Resume-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiteshx08&repo=Smart-Resume-Analyzer&theme=transparent" />
+  <a href="https://github.com/amiteshx08/Blogify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiteshx08&repo=Blogify&theme=transparent" />
   </a>
 </p>
 

@@ -73,7 +73,7 @@
 ### 🗂 Pinned Highlights
 <p align="left">
   <a href="https://github.com/amiteshx08/Study-Companion-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiteshx08&repo=Study-Companion-AI&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiteshx08&repo=Study_Buddy_College_Project&theme=transparent" />
   </a>
   <a href="https://github.com/amiteshx08/Smart-Resume-Analyzer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiteshx08&repo=Smart-Resume-Analyzer&theme=transparent" />

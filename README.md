@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A passionate [Your Role] from [Your Country]</h3>
+<h1 align="center">Hi 👋, I'm Amitesh</h1>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="center">
   <a href="https://github.com/your-username">
@@ -14,7 +14,7 @@
 - 🌱 I’m learning **[Tech Stack]**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 💬 Ask me about **Python, Java, Data Science, Web Dev**
-- 📫 Reach me at **your.email@example.com**
+- 📫 Reach me at **amiteshharshlal@gmail.com**
 
 ---
 

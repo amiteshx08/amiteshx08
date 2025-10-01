@@ -83,10 +83,10 @@
 ---
 
 <!-- Extra Animation: Contributions Snake -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" />
 
-</p>
+</p> -->
 
 <details>
 <summary><b>🧩 More about me</b></summary>

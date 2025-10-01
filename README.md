@@ -1,5 +1,5 @@
-<!-- Profile README for AmiteshHarshLal -->
-<!-- Tip: This repo must be named exactly your username: AmiteshHarshLal -->
+<!-- Profile README for amiteshx08 -->
+<!-- Tip: This repo must be named exactly your username: amiteshx08 -->
 
 <!-- Hero Typing Animation -->
 <p align="center">
@@ -19,11 +19,11 @@
 
 <!-- Badges -->
 <p align="center">
-  <a href="https://github.com/AmiteshHarshLal">
-    <img src="https://komarev.com/ghpvc/?username=AmiteshHarshLal&style=for-the-badge&label=VISITORS" alt="views"/>
+  <a href="https://github.com/amiteshx08">
+    <img src="https://komarev.com/ghpvc/?username=amiteshx08&style=for-the-badge&label=VISITORS" alt="views"/>
   </a>
-  <a href="https://github.com/AmiteshHarshLal?tab=followers">
-    <img src="https://img.shields.io/github/followers/AmiteshHarshLal?logo=github&style=for-the-badge" alt="followers"/>
+  <a href="https://github.com/amiteshx08?tab=followers">
+    <img src="https://img.shields.io/github/followers/amiteshx08?logo=github&style=for-the-badge" alt="followers"/>
   </a>
   <img src="https://img.shields.io/badge/Ship%20It-%F0%9F%9A%80-blueviolet?style=for-the-badge" />
 </p>
@@ -51,32 +51,32 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=AmiteshHarshLal&show_icons=true&rank_icon=github&theme=transparent" />
-  <img height="160" src="https://streak-stats.demolab.com?user=AmiteshHarshLal&theme=transparent" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=amiteshx08&show_icons=true&rank_icon=github&theme=transparent" />
+  <img height="160" src="https://streak-stats.demolab.com?user=amiteshx08&theme=transparent" />
 </p>
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiteshHarshLal&layout=compact&langs_count=10&theme=transparent" />
+  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiteshx08&layout=compact&langs_count=10&theme=transparent" />
 </p>
 
 <!-- Trophies -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AmiteshHarshLal&theme=onedark&row=1&column=7&margin-w=10&margin-h=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amiteshx08&theme=onedark&row=1&column=7&margin-w=10&margin-h=10" />
 </p>
 
 <!-- Activity Graph -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AmiteshHarshLal&radius=8&area=true&hide_border=true&bg_color=ffffff00&color=7c3aed&line=3b82f6&point=10b981" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiteshx08&radius=8&area=true&hide_border=true&bg_color=ffffff00&color=7c3aed&line=3b82f6&point=10b981" />
 </p>
 
 ---
 
 ### 🗂 Pinned Highlights
 <p align="left">
-  <a href="https://github.com/AmiteshHarshLal/Study-Companion-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiteshHarshLal&repo=Study-Companion-AI&theme=transparent" />
+  <a href="https://github.com/amiteshx08/Study-Companion-AI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiteshx08&repo=Study-Companion-AI&theme=transparent" />
   </a>
-  <a href="https://github.com/AmiteshHarshLal/Smart-Resume-Analyzer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiteshHarshLal&repo=Smart-Resume-Analyzer&theme=transparent" />
+  <a href="https://github.com/amiteshx08/Smart-Resume-Analyzer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=amiteshx08&repo=Smart-Resume-Analyzer&theme=transparent" />
   </a>
 </p>
 
@@ -84,7 +84,7 @@
 
 <!-- Extra Animation: Contributions Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/AmiteshHarshLal/AmiteshHarshLal/output/github-contribution-grid-snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/amiteshx08/amiteshx08/output/github-contribution-grid-snake.svg" alt="snake animation" />
 </p>
 
 <details>

@@ -84,7 +84,8 @@
 
 <!-- Extra Animation: Contributions Snake -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amiteshx08/amiteshx08/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/master/output/github-contribution-grid-snake.svg" />
+
 </p>
 
 <details>

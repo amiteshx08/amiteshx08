@@ -12,7 +12,7 @@
 
 <!-- Quick Intro -->
 <p align="center">
-  <b>B.Tech CSE · Loves MERN, TypeScript, Java, C++, Python</b>
+  <b>B.Tech CSE · Loves Building New Stuff, Python, , C++, Javascript</b>
   <br>
   Building <i>Study Companion AI</i>, Hackathon projects, AI-powered apps + more.
 </p>
@@ -32,20 +32,19 @@
 <img align="right" alt="coder" width="360" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDY2ODJtazZ4Z2F6M2h6N3BwN3RjNnNhc3htbG9lMjU2cHRyNmw2dCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif"/>
 
 ### 🚀 What I’m Doing
-- Crafting gorgeous frontends (Shadcn UI + Tailwind)  
-- Designing robust APIs (Node/Express, TypeScript, JWT)  
+- Crafting gorgeous frontends (React + Tailwind)  
+- Designing robust APIs (FastAPI, Flask, JWT)  
 - Playing with AI/ML integrations for real-world problems  
 
 ### 🧰 Tech I Use
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,redux,tailwind,bootstrap,python,java,cpp,mysql,git,github,postman,vercel,aws" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,mongodb,redux,tailwind,bootstrap,python,java,cpp,mysql,git,github,postman,vercel,aws" />
 </p>
 
 ### 🔥 Featured Projects
 - 📚 <b>Study Companion AI</b> — Personalized student assistant (React + Flask + AI)  
-- 🏆 <b>Hackathon Apps</b> — Rental Housing Finder, AI Chat tools  
-- 🛒 <b>StoreFleet</b> — sleek MERN e-commerce with stunning UI  
-- 📄 <b>Smart Resume Analyzer</b> — React + Flask  
+- 🏆 <b>Hackathon Apps</b> — Nutrition Tracker, AI Chat tools  
+
 
 ---
 
@@ -93,7 +92,7 @@
 
 - 💼 Targeting top developer roles post-placement season  
 - 🧪 Loves clean architecture, problem solving & AI integration  
-- 🤝 Open to collabs on MERN, Next.js, AI/ML projects  
+- 🤝 Open to collabs on React, Next.js, AI/ML, DataScience projects  
 - ✉ Reach me: <b>amiteshharshlal@gmail.com</b>
 </details>
 
